@@ -39,12 +39,13 @@ Just download and run the `.exe` from the [Releases](https://github.com/youruser
 
 Install dependencies:
 
-```bash
+```
 pip install -r requirements.txt
-
+```
 Run the app:
+```
 python frame_extractor_gui.py
-
+```
 
 🛠️ Building the Executable with Nuitka
 If you'd like to build the .exe yourself:
@@ -54,7 +55,9 @@ If you'd like to build the .exe yourself:
 pip install nuitka
 2. Build
 Run the batch file or manually run:
+```
 nuitka --standalone --enable-plugin=tk-inter --windows-icon-from-ico=icon.ico frame_extractor_gui.py
+```
 Your .exe will be in the frame_extractor_gui.dist/ folder.
 
 🧩 Use Cases
