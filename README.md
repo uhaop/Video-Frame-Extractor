@@ -5,6 +5,7 @@ A desktop GUI tool for extracting high-quality, non-blurry frames from video fil
 Developed with Python, OpenCV, and TTKBootstrap.
 
 ---
+<img src="https://i.imgur.com/bdy6fx9.png">
 
 ## ✨ Features
 
@@ -26,7 +27,7 @@ You can run it in two ways:
 
 > *(Built using Nuitka to avoid dependency issues and icon bugs)*
 
-Just download and run the `.exe` from the [Releases](https://github.com/yourusername/frame-extractor/releases) page.
+Just download and run the `.exe` from the [Releases](https://github.com/yourusername/video-frame-extractor/releases) page.
 
 ---
 
