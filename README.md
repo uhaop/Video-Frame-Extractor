@@ -66,7 +66,7 @@ Photogrammetry: Extract only sharp frames from a video for 3D model generation
 Machine Learning: Generate clean datasets from footage
 
 Surveillance: Archive only usable frames from long footage
-
+```
 📁 Frame Extractor/
 ├── frame_extractor_gui.py      # Main application
 ├── icon.ico                    # App icon
@@ -74,7 +74,7 @@ Surveillance: Archive only usable frames from long footage
 ├── requirements.txt            # Python dependencies
 ├── .gitignore                  # Clean repo
 └── README.md                   # This file
-
+```
 
 🧑‍💻 Author
 Developed by @uhaop & chatgpt
