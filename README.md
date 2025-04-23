@@ -27,7 +27,7 @@ You can run it in two ways:
 
 > *(Built using Nuitka to avoid dependency issues and icon bugs)*
 
-Just download and run the `.exe` from the [Releases](https://github.com/yourusername/video-frame-extractor/releases) page.
+Just download and run the `.exe` from the [Releases](https://github.com/uhaop/Video-Frame-Extractor/releases/tag/Releases) page.
 
 ---
 
